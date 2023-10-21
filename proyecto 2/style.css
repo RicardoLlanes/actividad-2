@@ -82,3 +82,38 @@ element.style{
     justify-content: space-around;
     align-items: center;
 }
+
+.contacto {
+    background-image: url(./imag/taller2.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.video {
+    display: inline-block;
+    background-color: aliceblue;
+    table-layout: fixed;
+    border: solid 2px black;
+    justify-content: center;
+    width: fit-content;
+    padding: 5px;
+}
+
+.contacto article {
+    display: inline-block;
+    background-color: aliceblue;
+    table-layout: fixed;
+    border: solid 2px black;
+    padding: 10px;
+}
+
+form {
+    display: inline-block;
+    background-color: aliceblue;
+    table-layout: fixed;
+    border: solid 2px black;
+    /* border-collapse: collapse; */
+    justify-content: center;
+    width: fit-content;
+    padding: 10px;
+}
