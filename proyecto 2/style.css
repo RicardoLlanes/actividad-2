@@ -7,6 +7,7 @@ rgb(229, 86, 4)Naranja*/
 body{
 
   background-color:RGB(235, 228, 209) ;
+  align-items: center;
 
 /*background: rgb(147, 177, 166) url(img/iglesia.jfif)no-repeat cover;*/
 /*otra forma de optimizar el codigo para el fondo*/
@@ -81,4 +82,8 @@ element.style{
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
+}
+table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
